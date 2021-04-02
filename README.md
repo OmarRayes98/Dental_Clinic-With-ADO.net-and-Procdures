@@ -3,6 +3,7 @@ This project is developed by Ado.net with Procedures .
 Includeing :
 - Report tools of visual studio (print preview and document dialog) without Crystal report or Reporting.
 - Back up and restore .
+- Users Permeissions for forms.(User or Manager)
 - And how you can use Setting of your project.
 - It's created with N-Tire Layers (Multitier architecture DAL PL BL ) to organize coding.
 - ERD for system
